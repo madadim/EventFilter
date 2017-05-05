@@ -1,3 +1,5 @@
+//src/main/scala=main
+//src/test/scala=tests
 P=
 Xcheckinit=false
 Xdisable-assertions=false
@@ -33,7 +35,7 @@ organizeimports.wildcards=scalaz$scalaz.Scalaz
 recompileOnMacroDef=true
 relationsDebug=false
 scala.compiler.additionalParams=\ -Xsource\:2.10 -Ymacro-expand\:none
-scala.compiler.installation=-2012353216
+scala.compiler.installation=2.10
 scala.compiler.sourceLevel=2.10
 scala.compiler.useProjectSettings=true
 src=main
